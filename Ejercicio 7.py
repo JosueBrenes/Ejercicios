@@ -23,7 +23,7 @@ print("Digite la edad de la persona E: ")
 e = input()
 e = int(e)
 
-#Se suman las edades de todos y se divide entre 5 ya que son 5 personas 
+# = Se suman las edades de todos y se divide entre 5 ya que son 5 personas 
 edad = ((a + b + c + d + e) // 5)
 
 # = Imprimimos el resultado que es la edad primedio
